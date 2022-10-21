@@ -1,0 +1,48 @@
+body{
+  font-size: 12%;
+  font-family: Verdana;
+}
+
+#logo{
+  width: 150px;
+  min-height: 400px;
+  border: 1px #CAB;
+  float:left;
+  background-color: #006;
+  margin-bottom: 5px;
+}
+#sologan{
+  width: 234px;
+  min-height: 400px;
+  border: 1px #AAD;
+  float:right;
+  margin-bottom: 5px;
+}
+#nav{
+  height: 100px;
+  background-color: #FF5;
+  border: 1px #ADDD;
+  margin-bottom:5px;
+}
+#images{
+  height: 30px;
+  line-height: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px #ABCD;
+  background-color: #BBAC;
+  margin-bottom:5px;
+  clear: both;
+}
+#content{
+  height: 100px;
+  background-color: #FF5;
+  border: 1px #ADDD;
+  margin-bottom:5px;
+}
+#footer{
+  height: 50px;
+  clear: both;
+  border: 1px #ADDD;
+  background-color: #ADDF;
+}
